@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MovieAndTVShow</string>
+    <string name="title_home">Home</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tvshow">TV Show</string>
+    <string name="title_menu_movie">Movie List</string>
+    <string name="title_menu_tvshow">TV Show List</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movies_name">Movies Name</string>
+    <string name="movies_desc">Movies Description</string>
+    <string name="movies_rating">Movies Rating</string>
+    <string name="tvshow_name">TVShow name</string>
+    <string name="tvshow_rating">TV Show Rating</string>
+    <string name="tvshow_desc">TV Show Desc</string>
+    <string name="text_desc">Description</string>
+    <string name="btn_back">Back</string>
+    <string name="text_language">Language</string>
+    <string name="movies_releasedate">Movies Release Date</string>
+    <string name="tvhow_releasedate">TVShow Release date</string>
+    <string name="movies_popularity">Movies Popularity</string>
+    <string name="tvshow_popularity">TVShow Popularity</string>
+    <string name="tvshow_releasedate">TVShow Release Date</string>
+    <string name="btn_favorite">Favorite</string>
+    <string name="see_more">Tap to See More</string>
+    <string name="title_favourite">My Favourite</string>
+    <string name="favourite">Favourited</string>
+    <string name="success_favourite">Success Favourited</string>
+    <string name="fail_favourite">Fail Favourited</string>
+    <string name="success_delete_favourite">Success Deleted From Favourite</string>
+    <string name="unfavourite">Unfavourited</string>
+    <string name="title_fav_movie">Favourited Movie</string>
+    <string name="title_fav_tvshow">Favourited TV Show</string>
+    <string name="search_hint">Search</string>
+    <string name="data_not_found">Data not Found</string>
+    <string name="reminder_setting">Reminder</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="release_reminder_on">Release Reminder : ON</string>
+    <string name="release_reminder_fail">Release Reminder : FAIL UPDATE</string>
+    <string name="release_reminder_off">Release Reminder : OFF</string>
+    <string name="daily_reminder_on">Daily Reminder : ON</string>
+    <string name="daily_reminder_fail">Daily Reminder : FAIL UPDATE</string>
+    <string name="daily_reminder_off">Daily Reminder : OFF</string>
+    <string name="appwidget_text">Favourite Movie Widget</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">Empty Text</string>
+    <string name="text_daily_notif">Hello, Movie And TVShow Catalogue is Missing you!</string>
+    <string name="text_release_notif">Today Release Movie</string>
+    <string name="text_off">Off</string>
+    <string name="text_on">On</string>
+    <string name="movie_image">Movie Image</string>
+</resources>

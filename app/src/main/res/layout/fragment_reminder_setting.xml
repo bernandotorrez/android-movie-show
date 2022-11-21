@@ -1,0 +1,87 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".movies.MovieFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="start"
+                android:textColor="@color/colorPrimary"
+                android:padding="@dimen/activity_horizontal_margin"
+                android:textStyle="bold"
+                android:text="@string/release_reminder" />
+
+            <Switch
+                android:id="@+id/switch_release_reminder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:switchMinWidth="56dp"
+                android:checked="false"
+                android:padding="@dimen/activity_horizontal_margin"
+                android:textOff="@string/text_off"
+                android:gravity="right"
+                android:layout_gravity="right"
+                android:textOn="@string/text_on"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:orientation="horizontal">
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="start"
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimary"
+                android:padding="@dimen/activity_horizontal_margin"
+                android:text="@string/daily_reminder" />
+
+            <Switch
+                android:id="@+id/switch_daily_reminder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:switchMinWidth="56dp"
+                android:checked="false"
+                android:padding="@dimen/activity_horizontal_margin"
+                android:textOff="@string/text_off"
+                android:gravity="right"
+                android:layout_gravity="right"
+                android:textOn="@string/text_on"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>

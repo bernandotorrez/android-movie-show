@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovieAndTVShow</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tvshow">Acara TV</string>
+    <string name="title_menu_movie">Daftar Film</string>
+    <string name="title_menu_tvshow">Daftar Acara TV</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movies_name">Nama Film</string>
+    <string name="movies_desc">Deskripsi Film</string>
+    <string name="movies_rating">Rating Film</string>
+    <string name="tvshow_name">Nama Acara TV</string>
+    <string name="tvshow_rating">Rating Acara TV</string>
+    <string name="tvshow_desc">Deskripsi Acara TV</string>
+    <string name="text_desc">Deskripsi</string>
+    <string name="btn_back">Kembali</string>
+    <string name="text_language">Bahasa</string>
+    <string name="movies_releasedate">Tanggal Rilis Film</string>
+    <string name="tvhow_releasedate">Tanggal Rilis Acara TV</string>
+    <string name="movies_popularity">Popularitas Film</string>
+    <string name="tvshow_popularity">Popularitas Acara TV</string>
+    <string name="tvshow_releasedate">Tanggal Rilis Acara TV</string>
+    <string name="btn_favorite">Favorit</string>
+    <string name="see_more">Ketuk untuk Lihat Lebih</string>
+    <string name="title_favourite">Favoritku</string>
+    <string name="favourite">Di Favoritkan</string>
+    <string name="success_favourite">Berhasil di Favoritkan</string>
+    <string name="fail_favourite">Gagal di Favoritkan</string>
+    <string name="success_delete_favourite">Sukses Menghapus Dari Favorit</string>
+    <string name="unfavourite">Tidak Difavoritkan</string>
+    <string name="title_fav_movie">Film Favorit</string>
+    <string name="title_fav_tvshow">Acara TV Favorit</string>
+    <string name="search_hint">Cari</string>
+    <string name="data_not_found">Data di Temukan</string>
+    <string name="reminder_setting">Pengingat</string>
+    <string name="release_reminder">Pengingat Rilis</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="release_reminder_on">Pengingat Rilis : HIDUP</string>
+    <string name="release_reminder_fail">Pengingat Rilis : UBAH GAGAL</string>
+    <string name="release_reminder_off">Pengingat Rilis : MATI</string>
+    <string name="daily_reminder_on">Pengingat Harian : HIDUP</string>
+    <string name="daily_reminder_fail">Pengingat Harian : UBAH GAGAL</string>
+    <string name="daily_reminder_off">Pengingat Harian : MATI</string>
+    <string name="appwidget_text">Film Favorit Widget</string>
+    <string name="add_widget">Tambah widget</string>
+    <string name="empty_text">Text Kosong</string>
+    <string name="text_daily_notif">Hallo, Film dan Acara TV Katalog merindukanmu!</string>
+    <string name="text_release_notif">Film Rilis Hari ini</string>
+    <string name="text_off">Mati</string>
+    <string name="text_on">Hidup</string>
+    <string name="movie_image">Gambar Film</string>
+</resources>
